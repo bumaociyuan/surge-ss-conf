@@ -173,4 +173,4 @@ Surge 支持 URL Scheme 满足重度/效率使用者的需求，不过按我估�
 - 选项:autoclose=true，当行为执行完毕时，自动退出 Surge 软件 ``surge:///toggle?autoclose=true`` 
 
 
-(利用 Surge 去除部分应用内广告)[http://matrix.sspai.com/p/bd41b500]
+[利用 Surge 去除部分应用内广告](http://matrix.sspai.com/p/bd41b500)
